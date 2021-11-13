@@ -1,4 +1,4 @@
-# los-santos-4k-map
+# Los Santos drone style minimap
  
 *******************************************************
 Installation
